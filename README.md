@@ -1,10 +1,13 @@
 # CTSTA
 Characterisation of microstructures
 
+
 1. The source code is released accompanying the publication of the paper “Jie Liu, Gerald G. Pereira, Qingbin Liu, Klaus Regenauer-Lieb, 2016, Computational challenges in the analyses of petrophysics using microtomography and upscaling: A review, Computers & Geosciences, 89, 107–117, doi:/10.1016/j.cageo.2016.01.014.”
 Please cite this paper if you use the tool to do characterisation in your research.
 
+
 2. The code calls a function of mathematical library of Intel, thus it is preferred to compile it using Intel-compiler and use “-mkl” to call the math-lib.
+
 
 3. Some basic concepts
 
